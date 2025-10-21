@@ -1,0 +1,14 @@
+# Dati di esempio esportati da sistema legacy
+# Contengono errori di formato, encoding e separatori
+ID; Nome ; Età ; Data_nascita ; Stipendio ; Note
+0; "Mario Rossi"; 35 ; 12/05/1989 ; "2.500,50" ; "Lavora a Roma, ottimo rendimento"
+1; "Anna Bianchi"; 29 ; 01/09/1995 ; "3.200,00" ; "Milano, nuovi progetti"
+2; "José Álvarez"; 40 ; 15/02/1984 ; "4.000,75" ; "Problemi di encoding àèìòù"
+3; "Luigi Verdi"; "?" ; 03/11/1990 ; "2,800.00" ; "Errore nei separatori decimali"
+4; "Giulia Rossi" ; 27 ; 31-08-1997 ; "3.000,00" ; "Riga OK"
+5; "Paolo Bianchi" ; 33 ; 02/04/1991 ; "N/A" ; "Valore mancante stipendio"
+6; "Marco, Test"; 38 ; 07/07/1986 ; "2.900,00" ; "Virgola nel nome"
+7 "Sara Neri" ; 31 ; 10/10/1993 ; "3.200,00" ; Riga con separatore mancante
+8; "Laura Verdi"; 25 ; 21/06/1999 ; "3.000,00"
+9; "Andrea Neri" ; ; ; ; "Campi mancanti"
+Unnamed: 0; "Extra colonna inutile"; ; ; ;
